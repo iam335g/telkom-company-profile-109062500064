@@ -19,4 +19,18 @@ require 'includes/header.php';
         </div>
     </div>
 </section>
+<section class="section section-soft">
+    <div class="container">
+        <div class="section-heading">
+            <span class="eyebrow">Fokus Pembelajaran</span>
+            <h2>Besok Belajar apa ya?</h2>
+        </div>
+        <div class="grid-3">
+            <article class="card">
+                <h3>Besok belajar statistika industri</h3>
+                <p>Statistika industri adalah penerapan metode ilmiah berupa pengumpulan, pengolahan, analisis, dan interpretasi data untuk membuat keputusan yang tepat di bidang industri.</p>
+            </article>
+        </div>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?>
