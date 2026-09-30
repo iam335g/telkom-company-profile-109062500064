@@ -21,7 +21,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
             </span>
         </a>
         <nav class="main-nav" aria-label="Navigasi utama">
-            <a class="<?= $currentPage === 'index.php' ? 'active' : '' ?>" href="index.php">Beranda</a>
+            <a class="<?= $currentPage === 'index.php' ? 'active' : '' ?>" href="index.php">Beranda</a>~
             <a class="<?= $currentPage === 'profile.php' ? 'active' : '' ?>" href="profile.php">Tentang itu</a>
             <a class="<?= $currentPage === 'programs.php' ? 'active' : '' ?>" href="programs.php">Program Studi</a>
             <a class="<?= in_array($currentPage, ['news.php', 'news_detail.php']) ? 'active' : '' ?>" href="news.php">Berita</a>
