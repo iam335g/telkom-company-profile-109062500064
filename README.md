@@ -2,3 +2,4 @@
 Project simulasi HTML, CSS, PHP native, MySQL/MariaDB, dan Git.
 perubahan ini dibuat dari simulasi file Laptop B 
 ayammm gorenggggggggggggggggggggggggggggggg
+Panduan instruksi pengerjaan praktikum Bab 5 hingga Bab 15 dimulai dengan menghubungkan repository lokal ke GitHub melalui konfigurasi *remote* dan *push* awal, menginisialisasi proyek profil perusahaan Telkom University beserta basis data MySQL, merancang struktur *layout* UI dinamis (termasuk komponen *header*, *footer*, program studi, berita, dan form kontak berbasis PHP native serta *prepared statements*), dilanjutkan dengan penerapan manajemen branch dan penyelesaian *merge conflict*, pengujian simulasi kolaborasi dua perangkat via *fetch* dan *pull*, prosedur *recovery* pembatalan perubahan (menggunakan *restore* dan *revert*), hingga diakhiri dengan pembuatan *release tag* `v1.0.0` ke GitHub.
